@@ -1,0 +1,12 @@
+{
+  "pub_key": "BLS_VER_KEY~dQELN4BdgrPgp7ZNo5eLfVS4gHL88hhV0MT3794ePghUnE9-yDDNt05l_7yhxz77cnV0HFxPOQAowRNQkhnDEA8s90FcaR0VX_73zIJ9UrWEln3tp_A7PIoFiT1Htb0FsnHMZon3a67ubq0LLaTY3nW0TsJ0-tsyDoqS4ygDuQ9o",
+  "name": "OnNode",
+  "description": "Your Strategic Partner in Decentralized Growth.",
+  "company_name": "OnNode",
+  "company_website": "https://onnode.org",
+  "client_version": "v1.0.0",
+  "icon": {
+    "14x14": { "@1x": "https://raw.githubusercontent.com/onnode-ops/Espresso-Foundation/refs/heads/main/icon-14.png", "@2x": "https://raw.githubusercontent.com/onnode-ops/Espresso-Foundation/refs/heads/main/icon-28.png", "@3x": "https://raw.githubusercontent.com/onnode-ops/Espresso-Foundation/refs/heads/main/icon-48.png" },
+    "24x24": { "@1x": "https://raw.githubusercontent.com/onnode-ops/Espresso-Foundation/refs/heads/main/icon-24.png", "@2x": "https://raw.githubusercontent.com/onnode-ops/Espresso-Foundation/refs/heads/main/icon-48.png", "@3x": "https://raw.githubusercontent.com/onnode-ops/Espresso-Foundation/refs/heads/main/icon-72.png" }
+  }
+}
